@@ -1,6 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-## NAME : SANJAY.C
-## REGISTER NUMBER : 212223240150
+## NAME : ESHWAR T
+## REGISTER NUMBER : 212223230054
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
